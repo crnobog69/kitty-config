@@ -12,10 +12,9 @@
 - [Инсталација фонта](#инсталација-фонта)
 - [Контакт](#контакт)
 
-
 ## О пројекту
 
-Овај пројекат садржи конфигурацију за Kitty Terminal са темом Tokyo Night.
+Овај пројекат садржи конфигурацију за [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) са темом Tokyo Night.
 
 ## Инсталација
 
@@ -39,13 +38,14 @@
 3. Преузмите и инсталирајте `JetBrainsMono Nerd Font Mono`.
 
 
+
 Линк до пројекта: [https://github.com/crnobog69/kitty-config](https://github.com/crnobog69/kitty-config)
 
 ---
 
 ## README in English
 
-Configuration for Kitty Terminal with Tokyo Night theme.
+Configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with Tokyo Night theme.
 
 - [Читај на српском](#readme-na-srpskom)
 
@@ -57,10 +57,9 @@ Configuration for Kitty Terminal with Tokyo Night theme.
 - [Font Installation](#font-installation)
 - [Contact](#contact)
 
-
 ## About the Project
 
-This project contains configuration for [Kitty Terminal]([https://github.com/crnobog69/kitty-config](https://github.com/crnobog69/kitty-config) with the Tokyo Night theme.
+This project contains configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with the Tokyo Night theme.
 
 ## Installation
 
@@ -82,6 +81,7 @@ Open Kitty Terminal and the configuration will be applied automatically.
 1. Visit [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases).
 2. Search for "JetBrainsMono" using Ctrl+F.
 3. Download and install `JetBrainsMono Nerd Font Mono`.
+
 
 
 Project link: [https://github.com/crnobog69/kitty-config](https://github.com/crnobog69/kitty-config)
