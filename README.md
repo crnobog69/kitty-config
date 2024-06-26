@@ -2,7 +2,7 @@
 
 ## README на српском
 
-Конфигурација за [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) са Tokyo Night темом.
+Конфигурација за [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) са [Tokyo Night][https://github.com/enkia/tokyo-night-vscode-theme] темом.
 
 - [Read in English](#readme-in-english)
 
