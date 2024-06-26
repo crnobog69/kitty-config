@@ -1,5 +1,7 @@
 # kitty-config
 
+## README на српском
+
 Конфигурација за [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) са Tokyo Night темом.
 
 - [Read in English](#readme-in-english)
@@ -48,7 +50,7 @@
 
 Configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with Tokyo Night theme.
 
-- [Читај на српском](#readme-na-srpskom)
+- [Читај на српском](#readme-на-српском)
 
 ## Contents
 
