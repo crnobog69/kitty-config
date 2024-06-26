@@ -34,8 +34,9 @@
 ## Инсталација фонта
 
 1. Посетите [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases).
-2. Претражите "JetBrainsMono" користећи Ctrl+F.
-3. Преузмите и инсталирајте `JetBrainsMono Nerd Font Mono`.
+2. Кликите 'Show all assets'
+3. Претражите "JetBrainsMono" користећи Ctrl+F.
+4. Преузмите и инсталирајте `JetBrainsMono Nerd Font Mono`.
 
 
 
@@ -79,8 +80,9 @@ Open Kitty Terminal and the configuration will be applied automatically.
 ## Font Installation
 
 1. Visit [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases).
-2. Search for "JetBrainsMono" using Ctrl+F.
-3. Download and install `JetBrainsMono Nerd Font Mono`.
+2. Click 'Show all assets'
+3. Search for "JetBrainsMono" using Ctrl+F.
+4. Download and install `JetBrainsMono Nerd Font Mono`.
 
 
 
