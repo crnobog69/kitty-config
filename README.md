@@ -4,7 +4,7 @@
 
 Конфигурација за [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) са [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) темом.
 
-- [Читај на српском](#readme-на-српском)
+- [Read in English](#readme-in-english)
 
 ## Садржај
 
