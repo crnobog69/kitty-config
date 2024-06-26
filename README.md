@@ -2,7 +2,7 @@
 
 ## README на српском
 
-Конфигурација за [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) са [Tokyo Night][https://github.com/enkia/tokyo-night-vscode-theme] темом.
+Конфигурација за [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) са [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) темом.
 
 - [Read in English](#readme-in-english)
 
@@ -16,7 +16,7 @@
 
 ## О пројекту
 
-Овај пројекат садржи конфигурацију за [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) са темом Tokyo Night.
+Овај пројекат садржи конфигурацију за [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) са темом [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme).
 
 ## Инсталација
 
@@ -48,7 +48,7 @@
 
 ## README in English
 
-Configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with Tokyo Night theme.
+Configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) theme.
 
 - [Читај на српском](#readme-на-српском)
 
@@ -62,7 +62,7 @@ Configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with Tokyo 
 
 ## About the Project
 
-This project contains configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with the Tokyo Night theme.
+This project contains configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with the [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) theme.
 
 ## Installation
 
