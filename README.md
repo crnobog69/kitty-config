@@ -13,7 +13,6 @@
 - [Ручна инсталација](#ручна-инсталација)
 - [Инсталација фонта](#инсталација-фонта)
 - [Коришћење](#коришћење)
-- [Контакт](#контакт)
 
 ## О пројекту
 
@@ -81,7 +80,6 @@ Configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with [Tokyo
 - [Manual Installation](#manual-installation)
 - [Font Installation](#font-installation)
 - [Usage](#usage)
-- [Contact](#contact)
 
 ## About the Project
 
