@@ -1,6 +1,6 @@
 # kitty-config
 
-Конфигурација за [Kitty Terminal]([https://github.com/crnobog69/kitty-config](https://github.com/crnobog69/kitty-config) са Tokyo Night темом.
+Конфигурација за [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) са Tokyo Night темом.
 
 - [Read in English](#readme-in-english)
 
