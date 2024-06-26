@@ -50,16 +50,19 @@
    - Отворите Kitty Terminal (ако већ није отворен).
    - Конфигурација ће се аутоматски применити.
 
-## Коришћење
-
-Отворите Kitty Terminal и конфигурација ће бити примењена аутоматски.
-
 ## Инсталација фонта
 
 1. Посетите [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases).
 2. Кликните 'Show all assets'
 3. Претражите "JetBrainsMono" користећи Ctrl+F.
 4. Преузмите и инсталирајте `JetBrainsMono Nerd Font Mono`.
+
+
+## Коришћење
+
+Отворите Kitty Terminal и конфигурација ће бити примењена аутоматски.
+
+
 
 Линк до пројекта: [https://github.com/crnobog69/kitty-config](https://github.com/crnobog69/kitty-config)
 
@@ -115,15 +118,17 @@ This project contains configuration for [Kitty Terminal](https://sw.kovidgoyal.n
    - Open Kitty Terminal (if not already open).
    - The configuration will be applied automatically.
 
-## Usage
-
-Open Kitty Terminal and the configuration will be applied automatically.
-
 ## Font Installation
 
 1. Visit [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases).
 2. Click 'Show all assets'
 3. Search for "JetBrainsMono" using Ctrl+F.
 4. Download and install `JetBrainsMono Nerd Font Mono`.
+
+## Usage
+
+Open Kitty Terminal and the configuration will be applied automatically.
+
+
 
 Project link: [https://github.com/crnobog69/kitty-config](https://github.com/crnobog69/kitty-config)
