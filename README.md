@@ -6,7 +6,7 @@
 
 - [Read in English](#readme-in-english)
 
-## Садржај
+## 📋 Садржај
 
 - [О пројекту](#о-пројекту)
 - [Инсталација](#инсталација)
@@ -14,11 +14,11 @@
 - [Инсталација фонта](#инсталација-фонта)
 - [Коришћење](#коришћење)
 
-## О пројекту
+## 📝 О пројекту
 
 Овај пројекат садржи конфигурацију за [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) са темом [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme).
 
-## Инсталација
+## 💾 Инсталација
 
 1. Клонирајте репозиторијум:
     ```bash
@@ -29,7 +29,7 @@
     cp kitty-config/kitty.conf ~/.config/kitty/kitty.conf
     ```
 
-### Ручна инсталација
+### 🛠️ Ручна инсталација
 
 1. **Преузмите конфигурациони фајл:**
    - Посетите [GitHub репозиторијум](https://github.com/crnobog69/kitty-config).
@@ -49,19 +49,16 @@
    - Отворите Kitty Terminal (ако већ није отворен).
    - Конфигурација ће се аутоматски применити.
 
-## Инсталација фонта
+## 🖋️ Инсталација фонта
 
 1. Посетите [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases).
 2. Кликните 'Show all assets'
 3. Претражите "JetBrainsMono" користећи Ctrl+F.
 4. Преузмите и инсталирајте `JetBrainsMono Nerd Font Mono`.
 
-
-## Коришћење
+## 🚀 Коришћење
 
 Отворите Kitty Terminal и конфигурација ће бити примењена аутоматски.
-
-
 
 Линк до пројекта: [https://github.com/crnobog69/kitty-config](https://github.com/crnobog69/kitty-config)
 
@@ -73,7 +70,7 @@ Configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with [Tokyo
 
 - [Читај на српском](#readme-на-српском)
 
-## Contents
+## 📋 Contents
 
 - [About the Project](#about-the-project)
 - [Installation](#installation)
@@ -81,11 +78,11 @@ Configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with [Tokyo
 - [Font Installation](#font-installation)
 - [Usage](#usage)
 
-## About the Project
+## 📝 About the Project
 
 This project contains configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with the [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) theme.
 
-## Installation
+## 💾 Installation
 
 1. Clone the repository:
     ```bash
@@ -96,7 +93,7 @@ This project contains configuration for [Kitty Terminal](https://sw.kovidgoyal.n
     cp kitty-config/kitty.conf ~/.config/kitty/kitty.conf
     ```
 
-### Manual Installation
+### 🛠️ Manual Installation
 
 1. **Download the configuration file:**
    - Visit the [GitHub repository](https://github.com/crnobog69/kitty-config).
@@ -116,17 +113,15 @@ This project contains configuration for [Kitty Terminal](https://sw.kovidgoyal.n
    - Open Kitty Terminal (if not already open).
    - The configuration will be applied automatically.
 
-## Font Installation
+## 🖋️ Font Installation
 
 1. Visit [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/releases).
 2. Click 'Show all assets'
 3. Search for "JetBrainsMono" using Ctrl+F.
 4. Download and install `JetBrainsMono Nerd Font Mono`.
 
-## Usage
+## 🚀 Usage
 
 Open Kitty Terminal and the configuration will be applied automatically.
-
-
 
 Project link: [https://github.com/crnobog69/kitty-config](https://github.com/crnobog69/kitty-config)
